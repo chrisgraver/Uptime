@@ -20,6 +20,8 @@ sites:
     url: https://degree-search.nau.edu/
   - name: NAU Home
     url: https://nau.edu
+  - name: CAS
+    url: https://cas.nau.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
