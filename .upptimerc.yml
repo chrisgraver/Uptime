@@ -22,8 +22,6 @@ sites:
     url: https://nau.edu
   - name: CAS
     url: https://cas.nau.edu
-  - name: Test Down
-    url: https://nau.edu/doesnotexist
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
