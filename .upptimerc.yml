@@ -15,8 +15,8 @@ status-website:
   baseUrl: /Uptime
   logoUrl: https://cas.nau.edu/cas/images/NAU_primary_rev-3514-wht.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "IAM Test Uptime Implementation"
+  introMessage: This is a sample status page which uses **real-time** data from a sample github repository.
   navbar:
     - title: Status
       href: /
