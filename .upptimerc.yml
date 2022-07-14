@@ -7,6 +7,14 @@ sites:
     url: https://directory.nau.edu
   - name: Directory API
     url: https://elasticapi.ucc.nau.edu/elastic/directory/cag24
+  - name: Catalog Search
+    url: https://catalog.nau.edu/Catalog
+  - name: Course Search
+    url: https://catalog.nau.edu/Courses/
+  - name: Progression Plans
+    url : https://catalog.nau.edu/ProgressionPlans/index.jsp?inst=NAU00&cat=2223
+  - name: Degree Search
+    url: https://degree-search.nau.edu/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
